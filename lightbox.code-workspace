@@ -2,7 +2,7 @@
     "folders": [
         {
             "path": "workspace"
-        },
+        }
     ],
     "settings": {
         "-files.encoding": "shiftjis",
@@ -239,25 +239,25 @@
             },
             {
                 "command": "git clone https://github.com/winofsql/php-board-v06-database-sqlite.git && cd php-board-v06-database-sqlite && rmdir .git /S /Q",
-                "name": "🟥 【掲示板 ver  6】MVC 掲示板 : IFRAME データベース( MySQL )",
+                "name": "🟥 【掲示板 ver  6】MVC 掲示板 : IFRAME データベース( sqlite3 )",
                 "auto": true,
                 "group": "🟠 PHP-1"
             },
             {
                 "command": "git clone https://github.com/winofsql/php-board-v07-database-browser-check-sqlite.git && cd php-board-v07-database-browser-check-sqlite && rmdir .git /S /Q",
-                "name": "🟥 【掲示板 ver  7】MVC 掲示板 : IFRAME データベース( MySQL ) ブラウザチェック",
+                "name": "🟥 【掲示板 ver  7】MVC 掲示板 : IFRAME データベース( sqlite3 ) ブラウザチェック",
                 "auto": true,
                 "group": "🟠 PHP-1"
             },
             {
                 "command": "git clone https://github.com/winofsql/php-board-v08-database-update-sqlite.git && cd php-board-v08-database-update-sqlite && rmdir .git /S /Q",
-                "name": "🟥 【掲示板 ver  8】MVC 掲示板 : IFRAME データベース( MySQL ) データ修正",
+                "name": "🟥 【掲示板 ver  8】MVC 掲示板 : IFRAME データベース( sqlite3 ) データ修正",
                 "auto": true,
                 "group": "🟠 PHP-1"
             },
             {
                 "command": "git clone https://github.com/winofsql/php-board-v09-database-delete-sqlite.git && cd php-board-v09-database-delete-sqlite && rmdir .git /S /Q",
-                "name": "🟥 【掲示板 ver  9】MVC 掲示板 : IFRAME データベース( MySQL ) データ削除",
+                "name": "🟥 【掲示板 ver  9】MVC 掲示板 : IFRAME データベース( sqlite3 ) データ削除",
                 "auto": true,
                 "group": "🟠 PHP-1"
             },
