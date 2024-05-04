@@ -1,5 +1,4 @@
 {
-    "settings": {
         "-files.encoding": "shiftjis",
         "editor.accessibilitySupport": "off",
         "workbench.tree.enableStickyScroll": true,
@@ -731,5 +730,4 @@
                 "group": "🔳 Windows"
             }
         ]
-    }
 }
