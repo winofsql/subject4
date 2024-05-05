@@ -41,3 +41,5 @@ Visual Studio Code を閉じる
 script-download.vbs 実行
 
 code-install-ext.bat 実行
+
+lightbox.code-workspace で Visual Studio Code を実行
