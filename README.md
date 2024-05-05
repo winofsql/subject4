@@ -56,6 +56,19 @@ lightbox.code-workspace で Visual Studio Code を実行
 
 フォルダ作成でそのフォルダを Apache の 仮想フォルダとして登録\
 ( "C:\xampp\apache\conf\extra\httpd-lightbox.conf" )
+```
+<IfModule alias_module>
+
+    Alias /php-0506-01 "C:\Users\lightbox\Downloads\subject4\php-0506-01"
+    <Directory "C:\Users\lightbox\Downloads\subject4\php-0506-01">
+        Options Indexes ExecCGI
+        AllowOverride All
+        Require all granted
+        ErrorDocument 403 /error/XAMPP_FORBIDDEN.html.var
+    </Directory>
+
+</IfModule>
+```
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/8352e4ab-5cfb-4946-9443-00fef30ff69b)
 
