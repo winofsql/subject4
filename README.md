@@ -34,6 +34,8 @@ if exist c:\Users\%USERNAME%\Downloads\subject4 (
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/dd0d8022-a4f1-44a8-8b1e-eae13bb5435a)
 
+Visual Studio Code を閉じる
+
 ![image](https://github.com/winofsql/subject4/assets/1501327/dcc99fa5-6e73-426d-9957-a398e3259848)
 
 script-download.vbs 実行
