@@ -36,3 +36,6 @@ if exist c:\Users\%USERNAME%\Downloads\subject4 (
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/dcc99fa5-6e73-426d-9957-a398e3259848)
 
+script-download.vbs 実行
+
+code-install-ext.bat 実行
