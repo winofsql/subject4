@@ -12,6 +12,8 @@
 
 xampp-control.exe は いったん終了して、管理者権限で実行します
 
+![image](https://github.com/winofsql/subject4/assets/1501327/df478fc1-7caa-4247-b2c2-f180b3b5e44e)
+
 php-subject-sqlite.bat
 ```
 @echo off
