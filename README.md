@@ -10,6 +10,8 @@
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/9a8fb14f-553f-4e9a-a7c3-56c76d455c9f)
 
+xampp-control.exe は いったん終了して、管理者権限で実行します
+
 php-subject-sqlite.bat
 ```
 @echo off
