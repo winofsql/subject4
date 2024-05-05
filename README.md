@@ -43,3 +43,8 @@ script-download.vbs 実行
 code-install-ext.bat 実行
 
 lightbox.code-workspace で Visual Studio Code を実行
+
+![image](https://github.com/winofsql/subject4/assets/1501327/47765f45-1aa6-4f1f-8788-9b97d609b11f)
+
+日本語選択
+![image](https://github.com/winofsql/subject4/assets/1501327/e5d4c194-0d7a-435a-a13c-079d994a755c)
