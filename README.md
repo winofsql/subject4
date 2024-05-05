@@ -6,6 +6,9 @@
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/d830f511-788b-47ce-8a1b-908576d67eef)
 
+![image](https://github.com/winofsql/subject4/assets/1501327/70dfef74-63ef-4b20-9ff1-ece42b3b26b7)
+
+
 php-subject-sqlite.bat
 ```
 @echo off
