@@ -55,6 +55,7 @@ lightbox.code-workspace で Visual Studio Code を実行
 ![image](https://github.com/winofsql/subject4/assets/1501327/8e8a31fd-0d93-4c0c-ac3c-1052ded46249)
 
 フォルダ作成でそのフォルダを Apache の 仮想フォルダとして登録
+( "C:\xampp\apache\conf\extra\httpd-lightbox.conf" )
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/8352e4ab-5cfb-4946-9443-00fef30ff69b)
 
