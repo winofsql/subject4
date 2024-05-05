@@ -58,7 +58,7 @@ lightbox.code-workspace で Visual Studio Code を実行
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/8e8a31fd-0d93-4c0c-ac3c-1052ded46249)
 
-フォルダ作成でそのフォルダを Apache の 仮想フォルダとして登録\
+フォルダ作成でそのフォルダを Apache の 仮想パスとして登録\
 ( "C:\xampp\apache\conf\extra\httpd-lightbox.conf" )
 ```
 <IfModule alias_module>
@@ -80,7 +80,7 @@ lightbox.code-workspace で Visual Studio Code を実行
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/3afb3379-0fc4-4a38-8a8f-48f31dbe4ef2)
 
-Apache を起動して　仮想フォルダを有効にする
+Apache を起動して　仮想パスを有効にする
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/26ae9ccb-d527-44ac-9942-5febf4e1242b)
 
