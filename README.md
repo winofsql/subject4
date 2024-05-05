@@ -49,3 +49,5 @@ lightbox.code-workspace で Visual Studio Code を実行
 日本語選択
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/e5d4c194-0d7a-435a-a13c-079d994a755c)
+
+![image](https://github.com/winofsql/subject4/assets/1501327/8107844d-f202-434f-8d93-2dae622b4ee8)
