@@ -8,6 +8,7 @@
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/70dfef74-63ef-4b20-9ff1-ece42b3b26b7)
 
+![image](https://github.com/winofsql/subject4/assets/1501327/9a8fb14f-553f-4e9a-a7c3-56c76d455c9f)
 
 php-subject-sqlite.bat
 ```
@@ -31,4 +32,4 @@ if exist c:\Users\%USERNAME%\Downloads\subject4 (
 )
 ```
 
-![image](https://github.com/winofsql/subject4/assets/1501327/9a8fb14f-553f-4e9a-a7c3-56c76d455c9f)
+
