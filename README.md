@@ -82,7 +82,7 @@ lightbox.code-workspace で Visual Studio Code を実行
 
 Apache を起動して　仮想フォルダを有効にする
 
-![image](https://github.com/winofsql/subject4/assets/1501327/14e377e2-f4ac-4151-96f9-78d315a85f68)
+![image](https://github.com/winofsql/subject4/assets/1501327/26ae9ccb-d527-44ac-9942-5febf4e1242b)
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/73db47b8-dab5-45c9-8330-6de83d6dc43f)
 
