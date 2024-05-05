@@ -69,3 +69,5 @@ Apache を起動して　仮想フォルダを有効にする
 ![image](https://github.com/winofsql/subject4/assets/1501327/73db47b8-dab5-45c9-8330-6de83d6dc43f)
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/b80c3871-14bb-42ea-8c2c-ba14f5ea292a)
+
+![image](https://github.com/winofsql/subject4/assets/1501327/d13c3177-9f5b-4179-aaea-4135fc31c878)
