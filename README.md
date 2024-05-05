@@ -54,10 +54,14 @@ lightbox.code-workspace で Visual Studio Code を実行
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/8e8a31fd-0d93-4c0c-ac3c-1052ded46249)
 
+フォルダ作成でそのフォルダを Apache の 仮想フォルダとして登録
+
 ![image](https://github.com/winofsql/subject4/assets/1501327/8352e4ab-5cfb-4946-9443-00fef30ff69b)
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/ee9a4688-5523-4acd-8b85-9292f16796b2)
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/3afb3379-0fc4-4a38-8a8f-48f31dbe4ef2)
+
+Apache を起動して　仮想フォルダを有効にする
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/14e377e2-f4ac-4151-96f9-78d315a85f68)
