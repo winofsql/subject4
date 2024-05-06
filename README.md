@@ -62,6 +62,8 @@ lightbox.code-workspace で Visual Studio Code を実行
 ( "C:\xampp\apache\conf\extra\httpd-lightbox.conf" )
 
 ※ 仮想ディレクトリは一つしか作れませんので、フォルダを変更したい場合は、設定メニューから XAMPP Alias 設定を行います\
+![image](https://github.com/winofsql/subject4/assets/1501327/89caac84-ac0b-4d77-bc69-0b1d924013c0)
+
 ( 変更した場合は、Apache 再起動です )
 ```
 <IfModule alias_module>
