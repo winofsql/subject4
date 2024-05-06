@@ -60,6 +60,9 @@ lightbox.code-workspace で Visual Studio Code を実行
 
 フォルダ作成でそのフォルダを Apache の 仮想ディレクトリとして登録\
 ( "C:\xampp\apache\conf\extra\httpd-lightbox.conf" )
+
+※ 仮想ディレクトリは一つしか作れませんので、フォルダを変更したい場合は、設定メニューから XAMPP Alias 設定を行います
+( 変更した場合は、Apache 再起動です )
 ```
 <IfModule alias_module>
 
