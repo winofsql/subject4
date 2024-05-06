@@ -615,10 +615,22 @@
                 "group": "🟠 PHP-6"
             },
             {
-                "command": "%windir%\\syswow64\\odbcad32.exe && exit",
-                "name": "──────────────────────────────────【ODBC 32】",
+                "command": "git clone https://github.com/winofsql/js-another-window-access.git && cd js-another-window-access && rmdir .git /S /Q",
+                "name": "🟥 【他のウインドウへのアクセス】: window.open, iframe",
                 "auto": true,
-                "group": "🟠 PHP-5"
+                "group": "🟠 PHP-6"
+            },
+            {
+                "command": "git clone https://github.com/winofsql/php-image-gallery-lightbox2.git && cd php-image-gallery-lightbox2 && rmdir .git /S /Q",
+                "name": "🟥 【lightbox2 を使用したギャラリー ( 縮小画像なし )】",
+                "auto": true,
+                "group": "🟠 PHP-6"
+            },
+            {
+                "command": "git clone https://github.com/winofsql/php-image-gallery-select.git && cd php-image-gallery-select && rmdir .git /S /Q",
+                "name": "🟥 【ギャラリー画像選択 ( Ajax 処理 )】",
+                "auto": true,
+                "group": "🟠 PHP-6"
             },
             {
                 "command": "cd ..\\..\\ && start . &&  git clone https://github.com/winofsql/resource-winofsql.git && cd resource-winofsql && rmdir .git /S /Q && move MySQL.md action && move README.md action && Code lightbox.code-workspace && exit",
