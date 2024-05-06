@@ -452,7 +452,7 @@
                 "auto": true,
                 "group": "🟠 PHP-3-問合せ"
             },
-       {
+            {
                 "command": "git clone https://github.com/winofsql/php-v01-upload-one-file.git && cd php-v01-upload-one-file && rmdir .git /S /Q",
                 "name": "🟥 【アップロード ver  1】: PHPノーマル１ファイルアップロード",
                 "auto": true,
@@ -491,6 +491,24 @@
             {
                 "command": "start chrome https://cdnjs.com/ && exit",
                 "name": "───────────────────────────────【JavaScript : cdnjs】",
+                "auto": true,
+                "group": "🟠 PHP-4"
+            },
+            {
+                "command": "git clone https://github.com/winofsql/php-zip-download.git && cd php-zip-download && rmdir .git /S /Q",
+                "name": "🟥 【PHP でファイルを zip でウンロードさせる処理】",
+                "auto": true,
+                "group": "🟠 PHP-4"
+            },
+            {
+                "command": "git clone https://github.com/winofsql/php-gd-image-reduction.git && cd php-gd-image-reduction && rmdir .git /S /Q",
+                "name": "🟥 【GD で単純な画像処理( 縮小あり )】",
+                "auto": true,
+                "group": "🟠 PHP-4"
+            },
+            {
+                "command": "git clone https://github.com/winofsql/php-sqlite3-easy-access.git && cd php-sqlite3-easy-access && rmdir .git /S /Q",
+                "name": "🟥 【PDO で簡単なデータアクセス】",
                 "auto": true,
                 "group": "🟠 PHP-4"
             },
