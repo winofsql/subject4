@@ -89,7 +89,7 @@ Apache を起動して　仮想ディレクトリを有効にする
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/26ae9ccb-d527-44ac-9942-5febf4e1242b)
 
-![image](https://github.com/winofsql/subject4/assets/1501327/73db47b8-dab5-45c9-8330-6de83d6dc43f)
+![image](https://github.com/winofsql/subject4/assets/1501327/9944a7fa-6d71-4c66-a853-729a21f4287d)
 
 ![image](https://github.com/winofsql/subject4/assets/1501327/b80c3871-14bb-42ea-8c2c-ba14f5ea292a)
 
